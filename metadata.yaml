@@ -1,0 +1,43 @@
+_repo: The-Jungle-Fugitives--A-Tale-of-Life-and-Adventure-in-India--13-Including-also-Many-Stories-o__16805
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    - Ellis, E. S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858 -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+tableOfContents: The Jungle Fugitives -- Lost in the Woods -- In the Nick of Time
+  -- Lost in the South Sea -- An Unpleasant Companion -- A Stirring Incident -- Cyclones
+  and Tornadoes -- Lost in a Blizzard -- Throwing the Riata -- A Waterspout -- An
+  Heroic Woman -- The Writing Found in a Bottle -- That Hornet's Nest -- A Young Hero
+  -- Overreached -- A Battle in the Air -- Who Shall Explain It? -- A Fool of a Genius
+title: "The Jungle Fugitives: A Tale of Life and Adventure in India\r\nIncluding also\
+  \ Many Stories of American Adventure, Enterprise and Daring"
+url: http://www.gutenberg.org/ebooks/16805
